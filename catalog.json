@@ -1,0 +1,106 @@
+[
+  {
+    "id": "acf",
+    "name": "Almeida Corrigida Fiel",
+    "abbrev": "ACF",
+    "language": "pt-BR",
+    "file": "raw/pt/acf.json",
+    "enabled": true
+  },
+  {
+    "id": "ara",
+    "name": "Almeida Revista e Atualizada",
+    "abbrev": "ARA",
+    "language": "pt-BR",
+    "file": "raw/pt/ara.json",
+    "enabled": true
+  },
+  {
+    "id": "arc",
+    "name": "Almeida Revista e Corrigida",
+    "abbrev": "ARC",
+    "language": "pt-BR",
+    "file": "raw/pt/arc.json",
+    "enabled": true
+  },
+  {
+    "id": "as21",
+    "name": "Almeida Século 21",
+    "abbrev": "AS21",
+    "language": "pt-BR",
+    "file": "raw/pt/as21.json",
+    "enabled": true
+  },
+  {
+    "id": "jfaa",
+    "name": "João Ferreira de Almeida Atualizada",
+    "abbrev": "JFAA",
+    "language": "pt-BR",
+    "file": "raw/pt/jfaa.json",
+    "enabled": true
+  },
+  {
+    "id": "kja",
+    "name": "King James Atualizada",
+    "abbrev": "KJA",
+    "language": "pt-BR",
+    "file": "raw/pt/kja.json",
+    "enabled": true
+  },
+  {
+    "id": "kjf",
+    "name": "King James Fiel",
+    "abbrev": "KJF",
+    "language": "pt-BR",
+    "file": "raw/pt/kjf.json",
+    "enabled": true
+  },
+  {
+    "id": "naa",
+    "name": "Nova Almeida Atualizada",
+    "abbrev": "NAA",
+    "language": "pt-BR",
+    "file": "raw/pt/naa.json",
+    "enabled": true
+  },
+  {
+    "id": "nbv",
+    "name": "Nova Bíblia Viva",
+    "abbrev": "NBV",
+    "language": "pt-BR",
+    "file": "raw/pt/nbv.json",
+    "enabled": true
+  },
+  {
+    "id": "ntlh",
+    "name": "Nova Tradução na Linguagem de Hoje",
+    "abbrev": "NTLH",
+    "language": "pt-BR",
+    "file": "raw/pt/ntlh.json",
+    "enabled": true
+  },
+  {
+    "id": "nvi",
+    "name": "Nova Versão Internacional",
+    "abbrev": "NVI",
+    "language": "pt-BR",
+    "file": "raw/pt/nvi.json",
+    "enabled": true
+  },
+  {
+    "id": "nvt",
+    "name": "Nova Versão Transformadora",
+    "abbrev": "NVT",
+    "language": "pt-BR",
+    "file": "raw/pt/nvt.json",
+    "enabled": true
+  },
+  {
+    "id": "tb",
+    "name": "Tradução Brasileira",
+    "abbrev": "TB",
+    "language": "pt-BR",
+    "file": "raw/pt/tb.json",
+    "enabled": true
+  }
+]
